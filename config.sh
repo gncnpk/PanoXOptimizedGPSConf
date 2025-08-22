@@ -10,10 +10,10 @@ LATESTARTSERVICE=false
 print_modname() {
   ui_print "******************************"
   ui_print "*                            *"
-  ui_print "*      GLOBAL OPTIMIZED      *"
+  ui_print "*          PanoX V3          *"
   ui_print "*      GPS FILE REPLACER     *"
   ui_print "*                            *"
-  ui_print "*       by ianhughes74       *"
+  ui_print "*         by gncnpk          *"
   ui_print "******************************"
   ui_print "               _             "
   ui_print "              (_)            "
@@ -26,7 +26,6 @@ print_modname() {
   ui_print "                             "
 }
 REPLACE="
-/system/etc/gps.conf
 /system/vendor/etc/gps.conf
 "
 
