@@ -27,6 +27,7 @@ print_modname() {
 }
 REPLACE="
 /system/vendor/etc/gps.conf
+/system/vendor/etc/izat.conf
 "
 
 set_permissions() {
