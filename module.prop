@@ -1,7 +1,7 @@
-id=optmizedgpsconf
-name=Global Optimized GPS File Replacer
-version=v5.0
+id=panoxoptimizedgpsconf
+name=PanoX Optimized GPS Conf
+version=v1.0
 versionCode=22
-author=ianhughes74, JonasCardoso, skyrocketing Hong
+author=ianhughes74, JonasCardoso, skyrocketing Hong, gncnpk
 description=This module replaces the default gps.conf file with a new one correctly edited for a better improvement and faster locking.
 minMagisk=17000
